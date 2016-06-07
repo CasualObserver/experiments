@@ -1,3 +1,5 @@
+//https://www.w3.org/TR/PNG/#table51
+
 var dec = [], hex = [], i = 0;
 var process = (function () {
     document.addEventListener('drop', drop, false);
