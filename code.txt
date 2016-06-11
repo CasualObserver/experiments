@@ -1,0 +1,13 @@
+cd expirments
+git status
+git add imageProcessing.js
+git commit -m "first commit"
+git status
+git push
+history /?
+code test.txt
+history /?
+/?
+help /?
+help
+DOSKEY /HISTORY >code.txt
