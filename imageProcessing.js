@@ -16,7 +16,7 @@ var process = (function () {
         init(e.target.files || e.dataTransfer.files);
     }
 
-    function init(files) {
+    function init(files) { 
         var i = files.length;
 
         while (i--) {
